@@ -28,3 +28,7 @@ I am assiduous person, this is a quality helps me to learn something new pretty 
 *(in the process of passing)*
 
 - **EnglishPapa** - English courses
+
+#### Foreign languages
+- English(B1)
+- German (A1)
