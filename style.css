@@ -77,9 +77,7 @@ main {
    flex-wrap: wrap;
    padding-top: 5px;
 }
-.italic {
-   font-style: italic;
-}
+
 ul li {
    margin-left: 50px;
 }
